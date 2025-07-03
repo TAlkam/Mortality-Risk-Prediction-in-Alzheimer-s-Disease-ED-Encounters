@@ -35,3 +35,7 @@ cd AD_ED_Mortality
 # create environment (optional but recommended)
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/<user>/<repo>/blob/main/pipeline.ipynb)
+
